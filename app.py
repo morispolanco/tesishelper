@@ -118,3 +118,6 @@ if carrera and titulo:
         st.write(result)
 else:
     st.warning("Por favor, introduce la carrera y el título de la tesis en la barra lateral para continuar.")
+
+st.sidebar.markdown("---")
+st.sidebar.markdown("[Correción de textos en 24 horas](https://hablemosbien.org)")
